@@ -1,6 +1,6 @@
 {
 "companyName": "DefaultCompany",
-"productName": "LobbySlot",
+"productName": "SLOT_LOBBY",
 "productVersion": "0.1",
 "dataUrl": "W.data.unityweb",
 "wasmCodeUrl": "W.wasm.code.unityweb",
